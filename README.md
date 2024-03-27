@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+(./Screen Shot 2024-03-27 at 07.37.25.png)
 
 
 ### Links
