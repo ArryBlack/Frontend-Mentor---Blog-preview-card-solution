@@ -4,18 +4,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
- 
-- [Author](#author)
+  - [Author](#author)
 
-
-## Overview
 
 ### The challenge
 
@@ -24,13 +18,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 
-
 ### Links
 
 - Solution URL: [https://github.com/ArryBlack/Frontend-Mentor---Blog-preview-card-solution]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [https://arryblack.github.io/Frontend-Mentor---Blog-preview-card-solution/]
 
 ### Built with
 
